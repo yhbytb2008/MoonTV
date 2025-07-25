@@ -84,6 +84,19 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+      ,
+    "huaweiba": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "华为吧"
+       ,
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    } 
+         ,
+    "suoni": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
+      "name": "天空资源"
+    } 
   }
 }
