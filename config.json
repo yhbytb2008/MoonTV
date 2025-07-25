@@ -85,7 +85,7 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"  
     },
-    ,"huaweiba": {
+    "huaweiba": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "华为吧"
     },
@@ -136,10 +136,10 @@
     "huya": {
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "虎牙资源"
-    },,
+    },
     "siquang": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "四圈资源"
     } 
-    }
+  }
 }
